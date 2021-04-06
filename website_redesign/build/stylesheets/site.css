@@ -1,0 +1,64 @@
+:root {
+  --scarlet: #BB0000;
+  --scarletfade: #880000;
+  --gray: #666666; }
+
+body {
+  background-color: white;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  text-align: center; }
+
+.content-container {
+  width: 50%;
+  margin: auto; }
+
+.NavBar a {
+  color: white;
+  background-color: var(--scarlet);
+  font-size: 24px;
+  padding: 16px;
+  border-radius: 16px;
+  text-decoration: none; }
+  .NavBar a:hover {
+    background-color: var(--scarletfade);
+    color: whitesmoke; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+.Header * {
+  background-color: white; }
+
+h2 {
+  background-color: whitesmoke; }
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem; }
+
+.professor-photo {
+  width: 300px;
+  height: 400px;
+  float: left; }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 80px; }
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px; }
+
+tr:nth-child(even) {
+  background-color: #dddddd; }
+
+h2 {
+  text-align: center; }

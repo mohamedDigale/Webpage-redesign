@@ -1,0 +1,411 @@
+program_committee_member:
+  SoCG:
+    title:
+      - Symposium on Computational Geometry (SoCG)
+    years:
+      "98":
+      "03":
+        - http://www.cs.umd.edu/areas/Theory/socg03
+      "12":
+        - http://socg2012.web.unc.edu/
+      "19":
+        - http://eecs.oregonstate.edu/socg19/index.html
+  NASAGEM:
+    title:
+      - NASA Gem Workshop (NASAGEM)
+    years:
+      "07":
+        - http://www.gdv.uni-hannover.de/events/hcw07/the_conference/nasa_gem_workshop/index.php
+  ISAAC:
+    title:
+      - International Symposium on Algorithms and Computation (ISAAC)
+    years:
+      "06":
+        - http://www.isical.ac.in/%7Eisaac06/
+  PG:
+    title:
+      - Pacific Graphics
+    years:
+      "06":
+        - http://graphics.im.ntu.edu.tw/pg2006/
+  SPM:
+    title:
+      - Solid and Physical Modeling (SPM)
+    years:
+      "04":
+        - http://www.ce.washington.edu/sm04/
+      "05":
+        - http://www.gvu.gatech.edu/%7Ejarek/spm
+      "06":
+        - http://ralph.cs.cf.ac.uk/SPM06.html
+      "07":
+        - http://cg.cs.tsinghua.edu.cn/spm2007/
+      "08":
+        - http://www.cs.sunysb.edu/spm08/
+      "09":
+        - http://www.siam.org/meetings/gdspm09/
+      "10":
+        - http://www.cs.technion.ac.il/spm2010/
+      "11":
+        - http://www.siam.org/meetings/gdspm11/
+      "12":
+        - http://spm12.u-bourgogne.fr/
+      "13":
+      "14":
+        - http://spring.mae.cuhk.edu.hk/%7Esmi2014/index.html
+      "15":
+        - http://www.siam.org/meetings/gdspm15/
+      "17":
+        - https://s3pm.icsi.berkeley.edu/s3pm/spm.html
+  SMI:
+    title:
+      - Shape Modeling International (SMI)
+    years:
+      "04":
+        - http://smism04.ge.imati.cnr.it/
+      "05":
+        - http://www.shapemodeling.org/
+      "06":
+        - http://www.ifs.tohoku.ac.jp/SMI06/
+      "07":
+        - http://smi07.liris.cnrs.fr/
+      "08":
+        - http://www.cs.sunysb.edu/smi08/
+      "09":
+        - http://cgcad.thss.tsinghua.edu.cn/SMI2009/
+      "10":
+        - http://mdm.ge.imati.cnr.it/related-info/conferences-and-workshops/shape-modeling-international-2010
+      "11":
+        - http://www1.idc.ac.il/smi2011/
+      "12":
+        - http://www.shapemodeling.org/
+      "13":
+      "14":
+        - http://spring.mae.cuhk.edu.hk/%7Esmi2014/index.html
+      "15":
+        - http://www-rech.telecom-lille.fr/smi2015/
+      "17":
+        - https://s3pm.icsi.berkeley.edu/s3pm/smi.html
+  PoiG:
+    title:
+      - Point Graphics
+    years:
+      "04":
+        - http://graphics.ethz.ch/pbg/cfp.html
+      "05":
+        - http://www.cs.princeton.edu/gfx/pbg05
+      "06":
+        - http://graphics.ethz.ch/PBG06/
+      "07":
+        - http://graphics.ethz.ch/events/pbg/07/
+      "08":
+        - http://graphics.ethz.ch/events/pbg/08/
+  3DPVT:
+    title:
+      - 3D Data Processing, Visualization & Transmission (3DPVT)
+    years:
+      "04":
+        - http://www.umiacs.umd.edu/conferences/3dpvt04/
+      "08":
+        - http://www.cc.gatech.edu/conferences/3DPVT08/3DPVT%2008.html
+  SolMod:
+    title:
+      - Solid Modeling
+    years:
+      "03":
+  SODA:
+    title:
+      - Symposium on Discrete Algorithms (SODA)
+    years:
+      "03":
+        - http://www.siam.org/meetings/da03
+      "14":
+        - http://www.siam.org/meetings/da14/
+  FSTTCS:
+    title:
+      - Foundations of Software Tech. and Theoretical Comp. Sci. (FSTTCS)
+    years:
+      "95":
+      "96":
+      "97":
+      "03":
+  WALCOM:
+    title:
+      - Workshop on Algorithms and Computation (WALCOM)
+    years:
+      "09":
+        - http://www.isical.ac.in/%7Ewalcom/
+  SGP:
+    title:
+      - Symposium on Geometry Processing (SGP)
+    years:
+      "09":
+        - http://sgp09.mi.fu-berlin.de/
+      "10":
+        - http://sgp2010.liris.cnrs.fr/
+      "11":
+        - http://sgp2011-lgg.epfl.ch/Home.html
+      "12":
+        - http://www.ioc.ee/sgp12/
+      "13":
+      "14":
+        - http://www.cs.cf.ac.uk/sgp2014/
+      "15":
+        - http://www.geometrie.tugraz.at/sgp2015/
+      "16":
+        - http://www.geometrysummit.org/sgp2016/pc.html
+      "17":
+        - http://geometry.cs.ucl.ac.uk/SGP2017/
+  ISVD:
+    title:
+      - Internation Symposium on Voroni Diagrams (ISVD)
+    years:
+      "09":
+      "13":
+        - http://bioinf.spbau.ru/isvd2013/
+  GMP:
+    title:
+      - International Good Manufacturing Practices Conf. (GMP)
+    years:
+      "10":
+        - http://www.gmp2010.unican.es/
+      "12":
+        - http://math.ustc.edu.cn/Conference/GMP2012/
+  SOCGVIDEO:
+    title:
+      - SoCG Video
+    years:
+      "10":
+        - http://www.sci.utah.edu/socg2010/
+  TOPOINFOVIS:
+    title:
+      - TopoInfoVis
+    years:
+      "11":
+        - http://www.topoinvis2011.ethz.ch/
+  CADGRAPH:
+    title:
+      - CAD Graphics
+    years:
+      "11":
+        - http://cadcg2011.sdu.edu.cn/
+  EUROCG:
+    title:
+      - European Workshop on Computational Geometry (EuroCG)
+    years:
+      "13":
+        - http://www.ibr.cs.tu-bs.de/alg/eurocg13/
+  SWAT:
+    title:
+      - Scandinavian Symposium and Workshops on Algorithm Theory (SWAT)
+    years:
+      "14":
+        - http://algolog.compute.dtu.dk/swat2014/
+
+invited_talks:
+  talk0:
+    - <a href="https://www.birs.ca/events/2018/5-day-workshops/18w5140">Multiparameter persistent homology</a>, &nbsp;BIRS-CMO, Mexico
+    - August, 2018
+  talk1:
+    - <a href="https://dccg.upc.edu/irp2018/details-of-the-activities/il1/">Computational Topology and Data Analysis</a>, Intensive Research Program in Discrete, Combinatorial and Computational Geometry, CRM, Spain.
+    - 2018
+  talk2:
+    - A tool for approximating the persisitence of Rips filtrations efficiently, <a href="https://www.ima.umn.edu/%7Emlesnick/Mini_Symposium_2016.html">SoCG workshop on Compu. Topo</a>&nbsp;&nbsp; [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/SimBa/SimBa.pdf">talk slides</a>]<a href="https://www.ima.umn.edu/%7Emlesnick/Mini_Symposium_2016.html">
+    - 2016
+  talk3:
+    - Multiscale Mapper, <a href="http://ist.ac.at/acat/">ACAT workshop, IST-Austria</a>, [<a href="http://ist.ac.at/fileadmin/user_upload/events_pages/acat/ACAT2015_Tamal_Dey.pdf">talk slides</a>]
+    - 2015
+  talk4:
+    - Computational topology in reconstruction, mesh generation, and data analysis, Keynote in <a href="https://projects.cs.dal.ca/cccg2014/programme.html">Canad. Conf. Computational Geometry</a> [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/CCCG14/CCCG14.pdf">talk slides</a>]
+    - 2014
+  talk5:
+    - Computing persistence for simplicial maps with application to data sparsification, <a href="http://www.ima.umn.edu/2013-2014/W4.28-5.2.14/">IMA workshop on Topology and Geomtry of Networks and Discrete Metric Spaces</a>[<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/simplicial-map/PersistenceForSimplicialMap.pdf">talk slides</a>]
+    - 2014
+  talk6:
+    - Graph Induced Complex, <a href="http://www.ima.umn.edu/2013-2014/W10.28-11.1.13/">IMA workshop on Modern application of homology and Cohomology</a>[<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/GIC/GIC.pdf">talk slides</a>]
+    - 2013
+  talk7:
+    - Better handles and tunnels, workshop&nbsp; on <a href="http://zeus.mat.puc-rio.br/%7Esocg2013/index.php/workshops/geometric-computing-challenges">geometric computing</a>, SoCG [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/HanTun/HanTun.ppt">talk slides</a>]
+    - 2013
+  talk8:
+    - <a href="http://www.mfo.de/occasion/1218/www_view">Delaunay mesh generation,</a> Oberwolfach workshop on Triangulations, [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/Delmesh/Delmesh.pptx">talk slides</a>]
+    - 2012
+  talk9:
+    - <a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/OpHom/OHCP-IAS.pdf">Computing homology cycles with certified geometry</a>, Computational Topology workshop, <a href="http://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_comptop/">Fields Institute</a>, and <a href="http://www.math.ias.edu/seminars/abstract?event=43554">Institute of Advanced Studies,</a> Princeton, [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/OpHom/OHCP-IAS.pdf">talk slides</a>]
+    - 2011, 2012
+  talk10:
+    - <a href="http://www.siam.org/meetings/gdspm11/invited.php">Computational geometry and topology meet geometric modeling</a>, SIAM-GD, [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/SIAM-GD11/SIAM-GD11.pptx">talk slides</a>]
+    - 2011
+  talk11:
+    - <a href="http://www.sandia.gov/imr/Speakers.html">Delaunay
+      refinement and its localization for meshing</a>, IMR [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/IMR11/IMR11.pptx">talk
+      slides</a>]
+    - 2011
+  talk12:
+    - <a href="http://www.cse.iitd.ac.in/%7Eamitk/walcom/">Geometry  and topology
+      from point cloud data</a>, WALCOM [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/PCD/PCD.pdf">talk slides</a>]
+    - 2011
+  talk13:
+    - <a href="http://www.cse.iitd.ac.in/%7Enaveen/activities/wshp-geometry/">Computing
+      homology cycles with certified geometry</a>, Workshop on Geometric Computing,
+      IIT Delhi. [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/homology-generators/talk.pdf">talk
+      slides</a>]
+    - November, 2010
+  talk14:
+    - <a href="http://www.math.utk.edu/barrett/">Convergence,
+      stability, and approximation  of Laplace spectra</a>, Discrete Differential
+      Geometry workshop, U. Tennessee.
+    - May, 2010
+  talk15:
+    - <a href="http://www.birs.ca/birspages.php?task=displayevent&amp;event_id=09w5112">Cut
+      locus and topology from point data</a>, BIRS workshop on data analysis
+    - March, 2009
+  talk16:
+    - <a href="http://www.birs.ca/birspages.php?task=eventvideos&amp;event_id=09w5119">Lifting
+      the curse of slivers from surface reconstruction (Video)</a>, BIRS
+      workshop       on Computational Mathematics on Discrete Surfaces
+    - February, 2009
+  talk17:
+    - <a href="http://cse.seas.wustl.edu/About/Events.asp?EventType=Colloquia&amp;EventID=1343">Computing
+      handles and tunnels in 3D models,</a> Colloquium, WUSTL, [<a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/ht.ppt">talk
+      slide</a><a href="http://www.cse.ohio-state.edu/%7Etamaldey/talk/ht.ppt">]</a>
+    - February, 2008
+  talk18:
+    - <a href="http://people.cs.uchicago.edu/%7Eniyogi/conference/index.html">Geometric
+      and topological approaches to data analysis</a>, <a href="http://www.cse.ohio-state.edu/%7Etamaldey/paper/extract-manifold/talk.pdf">[talk
+      slide]</a>.
+    - October, 2007
+  talk19:
+    - <a href="http://www-sop.inria.fr/geometrica/collaborations/geotopal/">GeoTopAl</a>
+    - 2007
+  talk20:
+    - <a href="http://www.isical.ac.in/%7Eisaac06/">ISAAC</a>
+    - 2006
+  talk21:
+    - <a href="http://www.lorentzcenter.nl/lc/web/2006/20060306/program.php3?wsid=169">Tessellations
+      in the Sciences, Lorentz Center, Lieden Univ.,</a>
+    - March, 2006
+  talk22:
+    - <a href="http://www.research.att.com/%7Ekrishnas/fwcg05/">15th  Fall workshop
+      on Computational Geometry</a>
+    - 2005
+  talk23:
+    - <a href="http://geometry.poly.edu/realworld/Seminars/tamal.html">Othmer Institute seminar</a>
+    - 2005
+  talk24:
+    - <a href="http://www.dis.uniroma1.it/%7Ealgo02">ALGO</a>
+    - 2002
+  talk25:
+    - <a href="http://www-sop.inria.fr/prisme/ECG/workshop/final">ECG Final Workshop 03</a>
+    - ""
+  talk26:
+    - DIMACS workshop on Surface Reconstruction
+    - ""
+  talk27:
+    - DIMACS workshop on computer aided design and manufacturing
+    - ""
+  talk28:
+    - <a href="http://www.math.uwo.ca/%7Ejardine/at-cs.html">Conference on  Algebraic Topological Methods in Computer Science</a>, Department of Mathematics, Stanford University
+    - July 30 - August 3, 2001
+  talk29:
+    - Colloquiam, Department of Computer Science, Univ. of Notre Dame
+    - September, 2004
+  talk30:
+    - <a href="http://www-or.amp.i.kyoto-u.ac.jp/algo-eng/seminar/ws001030_abs.html">Workshop
+      on Algorithm Engineering as a New Paradigm</a>, RIMS, Kyoto University, Kyoto, Japan
+    - October 30 - November 2, 2000
+  talk31:
+    - Solid Modeling Technology and Applications, SME, Detroit, MI
+    - November 16-17, 2000
+
+other_activities:
+  ac0:
+    main:
+      - <a href="http://socg2012.web.unc.edu/">Co-Chair, SoCG 2012</a>
+    sublist:
+  ac1:
+    main:
+      - Editorial Board
+    sublist:
+      - <a
+        href="http://www.springer.com/west/home/computer/computer+journals?SGWID=4-40100-70-1083392-0"
+        >Discrete &amp; Comput. Geom</a>
+      - <a href="http://www.journals.elsevier.com/computational-geometry/"
+        >Computational Geometry Theory &amp; Applications</a>
+      - <a href="http://jocg.org/index.php/jocg/index"
+        >Journal of Comput. Geom.</a>
+      - <a
+        href="http://www.elsevier.com/wps/find/journaleditorialboard.reviewers/622839/editorialboard"
+        >Graphical Models</a>
+      - <a
+        href="http://www.journals.elsevier.com/computer-aided-design/editorial-board/"
+        >CAD</a>
+  ac2:
+    main:
+      - Guest Editor
+    sublist:
+      - <a href="http://www.cs.ust.hk/faculty/scheng/ijfcs.html"
+        >Special issue of IJFCS</a>
+  ac3:
+    main:
+      - Executive Board
+    sublist:
+      - <a href="http://solidmodeling.org/layout.php?nextlink=executives"
+        >Solid Modeling Association (08-11)</a>
+  ac4:
+    main:
+      - Steering Committee
+    sublist:
+      - <a href="http://www.imr.sandia.gov/"
+        >11th Meshing Roundtable 2002</a>
+  ac5:
+    main:
+      - Advisory Committee
+    sublist:
+      - <a href="http://www.simplex.t.u-tokyo.ac.jp/%7Evd2004"
+        >International Symposium on Voronoi Diagrams in Science and
+        Engineering</a>
+  ac6:
+    main:
+      - Organizer
+    sublist:
+      - <a href="http://www.tgda.osu.edu/tgda-conf-osu.html"
+        >TGDA@OSU 2016, conference on topology, geometry, and data
+        analysis</a>
+      - <a
+        href="http://zeus.mat.puc-rio.br/%7Esocg2013/index.php/workshops/computational-topology-and-data-analysis"
+        >Workshop on Computational Topology and Data Analysis</a>
+      - <a href="http://www.siam.org/meetings/gd03/program.htm">
+        Mini-symposium on "Geometric modeling with point samples",
+        SIAM Geometric Design, 2003.</a>
+      - <a
+        href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=4865"
+        >Mini-Symposium on &nbsp;"Delaunay Meshing of Surfaces and
+        Volumes", SIAM Geometric Design, 2005.&nbsp;</a>
+      - DIMACS Surface Reconstruction Implementation Challenge, 2003.
+        <a
+        href="http://www.cse.ohio-state.edu/%7Etamaldey/sr-challenge.ppt"
+        >Results.</a>
+  ac7:
+    main:
+      - Tutorials
+    sublist:
+      - Summer school on Delaunay Mesh Generation, 2009, RWTH, Aachen,
+        Germany
+      - <a href="http://www.mpi-sb.mpg.de/adfocs"
+        >7th Max-Planck Advanced Course on Foundations of Computer
+        Science, ADFOCS06</a
+        >, August 2006
+      - <a
+        href="http://www.inf.fu-berlin.de/graduate-programs/%20cgc/Veranstaltungen/Schulen/Herbst03/abstracts.html"
+        >
+        Summer school on computational geometry Fu-Berlin, October,
+        2003</a>
+      - Surface and Volume meshing<a
+        href="http://conference.ieem.ust.hk/%7Ecadcg05/tutorials.htm"
+        >, CAD/Graphics 2005, Hong-Kong</a>
+      - Reconstruction and feature extraction from point cloud data with
+        mathematical reasoning,<a
+        href="http://www.siam.org/meetings/gd05/"
+        >
+        SIAM conference on Geometric Design, Phoenix, 2005.</a>
